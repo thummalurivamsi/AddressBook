@@ -85,7 +85,8 @@ Sample Terminal Output
 
 ![image](https://github.com/user-attachments/assets/257058af-ada8-4a14-b212-2f6dffaeb780)
 
-
+Project demo :
+https://drive.google.com/file/d/1_HA2ZnPD77A7BtURAfwtulW6L9lmaPZz/view?usp=sharing
 
 
 📈 Future Improvements
